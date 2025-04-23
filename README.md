@@ -87,8 +87,7 @@ Una vez que Docker y Docker Compose estén configurados correctamente, puedes pr
 1. Clona el repositorio desde GitHub:
 
    ```bash
-   git clone https://github.com/power38261010/Noa.git
-   cd Noa
+   git clone https://github.com/IngridBianchi/Noa
    ```
 
 2. Cambia a la rama `master`:

@@ -87,7 +87,7 @@ Once Docker and Docker Compose are correctly configured, you can proceed with in
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/power38261010/Noa.git
+   git clone https://github.com/IngridBianchi/Noa
    cd Noa
    ```
 
