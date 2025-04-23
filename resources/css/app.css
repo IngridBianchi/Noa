@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App Styles */
+body {
+  background-color: #f5f5f5;
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  color: #0275d8 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #0275d8 !important;
+  padding: 1rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.nav-link.active {
+  color: #fff !important;
+  background-color: #0275d8 !important;
+  border-radius: 5px;
+}
+
+.footer-text {
+  font-size: 1rem;
+  color: #555;
+  text-align: center;
+  padding: 1rem 0;
+  background-color: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+  margin-top: 10px;
+}
+
+/* Estilos para la sección principal */
+.main-heading {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #0275d8;
+  margin-bottom: 20px;
+}
+
+.subheading {
+  font-size: 1.5rem;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+/* Estilos para el carousel */
+.carousel-inner img {
+  object-fit: cover;
+  height: 400px;
+}
+
+.carousel-item img {
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item img:hover {
+  transform: scale(1.05);
+}
+
+/* Estilos adicionales */
+.content {
+  padding: 2rem 0;
+}
+
+h1.welcome-heading {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #0275d8;
+}
+
+h3.description-heading {
+  font-size: 1.25rem;
+  color: #555;
+}
+
+h5 {
+  font-size: 1.125rem;
+  color: #333;
+}
