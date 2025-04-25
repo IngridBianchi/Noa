@@ -165,7 +165,7 @@ npm run dev
 
 This will start the development server, and you will see the changes reflected immediately in the browser.
 
-## Contributing
+## Contributing.
 
 If you'd like to contribute to the project, please **fork** the repository and submit a **pull request** with your changes. Be sure to write clear, documented code and ensure that your changes are properly tested.
 
